@@ -1,1 +1,1 @@
-# Execution-Finality-Architechture-for-AI-Machines-
+# Execution-Finality-Architechture-for-AI-Machines
