@@ -14,9 +14,3 @@ cryptographic enforcement across GPU interconnects, data-processing units, satel
 egress points, and CBDC ledgers. The architecture thereby technically gates the
 transition from computational intent to external consequence, ensuring computation
 alone does not impart authority
-
-
-### Copyright and Patent Notice
-Copyright © 2026 Sangam Das. All rights reserved. No licence is granted to reproduce, modify, distribute, commercially implement, or create derivative works from the materials in this repository, except as permitted by applicable law or GitHub’s mandatory Terms of Service.
-
-Certain technical subject matter described here is associated with pending international patent applications and published PCT documents. Publication in this repository does not constitute the grant of any patent licence, implementation licence, commercial licence, or waiver of any intellectual-property rights. Official patent records should be verified through WIPO Patentscope.
